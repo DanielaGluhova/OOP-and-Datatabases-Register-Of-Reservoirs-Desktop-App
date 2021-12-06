@@ -1,0 +1,3 @@
+jdbc:h2:C:\\Users\\User\\Desktop\\H2 Database\\DB;AUTO_SERVER=TRUE
+1901321068_Daniela
+Dani7777H2
